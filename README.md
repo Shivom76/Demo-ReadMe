@@ -1,2 +1,2 @@
-                                                                                             # Hi Guys!!  I am Shivom
+  # Hi Guys!!  I am Shivom
 Collection of my personal projects.
