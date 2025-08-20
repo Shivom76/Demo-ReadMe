@@ -1,2 +1,2 @@
-  # Hi Guys!!  I am Shivom
-Collection of my personal projects.
+#                                           Hi Guys!!  I am Shivom
+                                          A Full-Stack web Developer
