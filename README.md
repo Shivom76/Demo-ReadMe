@@ -32,4 +32,4 @@
 
 ### Projects
 #### WanferList: 
-##### A full-stack travel platform for discovering and booking unique accommodations
+##### A full-stack travel platform that enables users to book short-term rentals, from a single room to an entire home. It acts as an intermediary, connecting hosts with travelers to facilitate the booking process.
