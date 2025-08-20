@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Shivom!
-A Full-Stack Developer passionate about building user-centric and scalable web applications.
-
+<p align="center">
+  <h1>👋 Hi, I'm Shivom!</h1>
+  A Full-Stack Developer passionate about building user-centric and scalable web applications.
+</p>
 ---
 
 ### 🛠️ My Skills & Technologies
@@ -31,4 +32,4 @@ A Full-Stack Developer passionate about building user-centric and scalable web a
 
 ### Projects
 #### WanferList: 
-###### A full-stack travel platform for discovering and booking unique accommodations
+##### A full-stack travel platform for discovering and booking unique accommodations
