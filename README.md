@@ -1,7 +1,6 @@
-<p align="center">
-  <h1>👋 Hi, I'm Shivom!</h1>
-  A Full-Stack Developer passionate about building user-centric and scalable web applications.
-</p>
+<h1 align="center">👋 Hi, I'm Shivom!</h1>
+<h2 align="center">A Full-Stack Developer passionate about building user-centric and scalable web applications.</h2>
+
 ---
 
 ### 🛠️ My Skills & Technologies
